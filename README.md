@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I am a Backend Developer with extensive experience in SQL databases and the .NET development environment, particularly in C# and Azure Functions. Currently, I work at Soluciones WIGA, where I have been for 4.5 years, serving as a Backend Developer and as a database administrator and developer with SQL Server and MySQL.<br><br>Throughout my career, I have extensively worked with REST APIs using C# and Azure Functions. My experience includes handling relational databases with SQL Server and MySQL. I also have experience with agile methodologies like Scrum and DevOps. I use Git with Azure Repos for version control and have conducted manual application testing. Additionally, I have had brief exposure to Java with Spring and Android application development using Android Studio.</p>
+<p align="left">I am a Backend Developer with extensive experience in SQL databases and the .NET development environment, particularly in C# and Azure Functions. Currently, I work at Soluciones WIGA, where I have been for 5 years, serving as a Backend Developer and as a database administrator and developer with SQL Server and MySQL.<br><br>Throughout my career, I have extensively worked with REST APIs using C# and Azure Functions. My experience includes handling relational databases with SQL Server and MySQL. I also have experience with agile methodologies like Scrum and DevOps. I use Git with Azure Repos for version control and have conducted manual application testing. Additionally, I have had brief exposure to Java with Spring and Android application development using Android Studio.</p>
 
 ###
 
