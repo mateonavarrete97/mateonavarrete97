@@ -22,7 +22,100 @@
 
 ###
 
-<p align="left">I am a Backend Developer with extensive experience in SQL databases and the .NET development environment, particularly in C# and Azure Functions. Currently, I work at Soluciones WIGA, where I have been for 5 years, serving as a Backend Developer and as a database administrator and developer with SQL Server and MySQL.<br><br>Throughout my career, I have extensively worked with REST APIs using C# and Azure Functions. My experience includes handling relational databases with SQL Server and MySQL. I also have experience with agile methodologies like Scrum and DevOps. I use Git with Azure Repos for version control and have conducted manual application testing. Additionally, I have had brief exposure to Java with Spring and Android application development using Android Studio.</p>
+<p align="left">About Me
+
+I am a Backend Developer with more than 5 years of professional experience, specializing in SQL databases and the .NET development environment, with a strong focus on C#, Azure Functions, and cloud-native architectures. My career has been centered around building efficient, scalable, and reliable backend solutions that integrate seamlessly with modern business needs.
+
+Currently, I work at Soluciones WIGA, where I serve as a Backend Developer and Database Administrator/Developer. In this role, I design, develop, and optimize applications, manage relational databases, and ensure high system performance.
+
+In addition to my professional work, I am currently studying DevOps and Angular, expanding my skills to cover cloud, automation, and frontend development.
+
+💻 Technical Expertise
+
+Backend Development:
+
+REST API design and implementation with C# and Azure Functions.
+
+Experience with .NET isolated worker model for serverless applications.
+
+Databases:
+
+Strong expertise in SQL Server and MySQL for administration and development.
+
+Experience with MongoDB for document-oriented database solutions.
+
+Query optimization, stored procedures, and schema design.
+
+Agile & DevOps Practices:
+
+Hands-on experience with Scrum and DevOps methodologies.
+
+Version control with Git and Azure Repos.
+
+CI/CD pipelines and deployment automation concepts.
+
+Testing & Quality Assurance:
+
+Manual application testing for functionality and stability.
+
+Additional Experience:
+
+Exposure to Java with Spring Framework.
+
+Development of mobile applications with Android Studio.
+
+Currently learning DevOps and Angular.
+
+🚀 Professional Focus
+
+My main focus is to deliver robust, maintainable, and high-performance backend systems that support business processes efficiently. I am passionate about continuous learning, exploring new technologies, and applying best practices to create scalable and secure solutions.</p>
+<p align="left">Sobre mí
+
+Soy Desarrollador Backend con más de 5 años de experiencia profesional, especializado en bases de datos SQL y en el entorno de desarrollo .NET, con un enfoque sólido en C#, Azure Functions y arquitecturas nativas en la nube. Mi carrera se ha centrado en construir soluciones backend eficientes, escalables y confiables que se integran con las necesidades modernas de negocio.
+
+Actualmente, trabajo en Soluciones WIGA, donde me desempeño como Desarrollador Backend y Administrador/Desarrollador de Bases de Datos. En este rol diseño, desarrollo y optimizo aplicaciones, gestiono bases de datos relacionales y aseguro un alto rendimiento de los sistemas.
+
+Además de mi trabajo profesional, actualmente estoy estudiando DevOps y Angular, ampliando mis competencias hacia la nube, la automatización y el desarrollo frontend.
+
+💻 Experiencia Técnica
+
+Desarrollo Backend:
+
+Diseño e implementación de APIs REST con C# y Azure Functions.
+
+Experiencia con .NET isolated worker model para aplicaciones serverless.
+
+Bases de Datos:
+
+Amplia experiencia en SQL Server y MySQL tanto en administración como en desarrollo.
+
+Experiencia con MongoDB para soluciones basadas en bases de datos orientadas a documentos.
+
+Optimización de consultas, procedimientos almacenados y diseño de esquemas.
+
+Metodologías Ágiles y DevOps:
+
+Experiencia práctica con Scrum y DevOps.
+
+Control de versiones con Git y Azure Repos.
+
+Conocimientos en CI/CD y automatización de despliegues.
+
+Pruebas y Calidad:
+
+Pruebas manuales de aplicaciones para verificar funcionalidad y estabilidad.
+
+Experiencia Adicional:
+
+Conocimientos en Java con Spring Framework.
+
+Desarrollo de aplicaciones móviles con Android Studio.
+
+Actualmente estudiando DevOps y Angular.
+
+🚀 Enfoque Profesional
+
+Mi enfoque principal es entregar sistemas backend robustos, mantenibles y de alto rendimiento que respalden los procesos de negocio de manera eficiente. Me apasiona el aprendizaje continuo, la exploración de nuevas tecnologías y la aplicación de buenas prácticas para crear soluciones escalables y seguras.</p>
 
 ###
 
